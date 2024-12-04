@@ -1,0 +1,50 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1573883844855-f364441ac463?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80);
+}
+
+.contenido {
+    text-align: center; 
+    padding: 20px;
+    background-color: rgb(222, 184, 135); 
+    border-radius: 10px; 
+    max-width: 60%; 
+    margin: 50px auto; 
+}
+hr {
+    color: brown;
+    border: 2px solid;
+}
+/* Contenedor general */
+.cafe {
+    max-width: 900px; 
+    margin: 20px auto; 
+    padding: 20px; 
+    font-family: Arial, sans-serif; 
+}
+
+.nombreprecio1 {
+    display: flex; 
+    justify-content: space-between; 
+    padding: 10px 0; 
+}
+
+.nombre {
+    font-size: 20px; 
+    font-weight: bold;
+}
+
+.precio {
+    font-size: 20px; 
+    font-weight: bold; 
+}
+
+.Postre {
+    max-width: 900px; 
+    margin: 20px auto; 
+    padding: 20px; 
+    font-family: Arial, sans-serif; 
+}
+img {
+    width: 80px; /* Ajusta el ancho */
+    height: auto; /* Mantiene las proporciones */
+}
