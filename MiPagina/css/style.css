@@ -1,0 +1,50 @@
+.Titulo{
+    background-color: rgb(29, 85, 29);
+    color: aliceblue;
+    padding: 20px;
+    font-size: 30px;
+}
+
+nav{
+    background-color: rgb(39, 37, 37);
+    padding: 1px;
+    font-size: 20px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline-block
+}
+
+
+a {
+    color: rgb(255, 255, 255); 
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: red; 
+    text-decoration: underline;
+}
+
+main {
+    background-color: rgb(255, 255, 255);
+}
+h2 {
+    font-size: 50px;
+}
+p {
+    font-size: 20px;
+}
+footer {
+    background-color: rgb(39, 37, 37);
+    color: azure;
+    padding: 1px;
+}
+body {
+    text-align: center;
+    margin: 0%;
+}
